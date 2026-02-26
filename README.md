@@ -1,1 +1,1 @@
-# SIMON-GAME and around the pr
+# SIMON-GAME and around the p
