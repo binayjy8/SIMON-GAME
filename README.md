@@ -1,1 +1,1 @@
-# SIMON-GAME and around the project
+# SIMON-GAME and around the projec
