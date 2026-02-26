@@ -1,1 +1,1 @@
-# SIMON-GAME and ar
+# SIMON-GAME and aro
