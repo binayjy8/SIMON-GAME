@@ -1,1 +1,1 @@
-# SIMON-GAME and around t
+# SIMON-GAME and around th
