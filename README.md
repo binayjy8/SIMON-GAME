@@ -1,1 +1,1 @@
-# SIMON-GAME and around the autho
+# SIMON-GAME and around the author
