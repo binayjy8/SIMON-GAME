@@ -1,1 +1,1 @@
-# SIMON-GAME and around the aut
+# SIMON-GAME and around the auth
