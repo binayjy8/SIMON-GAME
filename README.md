@@ -1,1 +1,1 @@
-# SIMON-GAME is created by
+# SIMON-GAME is created by a
