@@ -1,1 +1,1 @@
-# SIMON-GAME i
+# SIMON-GAME is
