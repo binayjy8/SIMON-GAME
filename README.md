@@ -1,1 +1,1 @@
-# SIMON-GAME is created by ans
+# SIMON-GAME is created by answ
