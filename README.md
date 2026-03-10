@@ -1,1 +1,1 @@
-# SIMON-GAME is cr
+# SIMON-GAME is cre
