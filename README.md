@@ -1,1 +1,1 @@
-# SIMON-GAME is created by answee
+# SIMON-GAME is created by answeer
