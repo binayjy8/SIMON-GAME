@@ -1,1 +1,1 @@
-# SIMON-GAME is create
+# SIMON-GAME is created
