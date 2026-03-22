@@ -1,1 +1,1 @@
-# SIMON-GAME The game made only technology javascr
+# SIMON-GAME The game made only technology javascri
