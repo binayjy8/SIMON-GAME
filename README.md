@@ -1,1 +1,1 @@
-# SIMON-GAME The game made only t
+# SIMON-GAME The game made only te
