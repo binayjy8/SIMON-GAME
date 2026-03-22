@@ -1,1 +1,1 @@
-# SIMON-GAME The game made onl
+# SIMON-GAME The game made only
