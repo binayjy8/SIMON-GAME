@@ -1,1 +1,1 @@
-# SIMON-GAME The game made only technol
+# SIMON-GAME The game made only technolo
