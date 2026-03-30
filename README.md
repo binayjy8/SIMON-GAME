@@ -1,1 +1,1 @@
-# SIMON-GAME The game made only technology j
+# SIMON-GAME The game made only technology 
