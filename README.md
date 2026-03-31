@@ -1,1 +1,1 @@
-# SIMON-GAME The game made
+# SIMON-GAME The game mad
