@@ -1,1 +1,1 @@
-# SIMON-GAME He
+# SIMON-GAME Hel
