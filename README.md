@@ -1,1 +1,1 @@
-# SIMON-GAME Hello bina
+# SIMON-GAME Hello binay
