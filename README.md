@@ -1,1 +1,1 @@
-# SIMON-GAME Hello binay bhu
+# SIMON-GAME Hello binay bhus
