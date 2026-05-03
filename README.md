@@ -1,1 +1,1 @@
-# SIMON-GAME Hello binay bhusan is the and this game i made 7
+# SIMON-GAME Hello binay bhusan is the and this game i made u
