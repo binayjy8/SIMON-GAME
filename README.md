@@ -1,1 +1,1 @@
-# SIMON-GAME Hello binay bhusan is the and this game i made  using javaS
+# SIMON-GAME Hello binay bhusan is the and this game i made  using javaSc
