@@ -1,1 +1,1 @@
-# SIMON-GAME Hello binay bhusan is the and this game i made  using javaScript in general it was not the amomen
+# SIMON-GAME Hello binay bhusan is the and this game i made  using javaScript in general it was not the amome
