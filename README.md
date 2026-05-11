@@ -1,1 +1,1 @@
-# SIMON-GAME Hello binay bhusan is the and this game i made  using javaScript in gene
+# SIMON-GAME Hello binay bhusan is the and this game i made  using javaScript in gen
