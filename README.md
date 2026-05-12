@@ -1,1 +1,1 @@
-# SIMON-GAME Hello binay bhusan is the and this game i mae 
+# SIMON-GAME Hello binay bhusan is the and this game i ma 
